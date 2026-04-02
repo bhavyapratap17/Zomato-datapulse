@@ -148,6 +148,6 @@ For additional visualizations, such as price groups, restaurants, food items, or
 ## 📬 Author
 
 👩‍💻 **Bhavya Pratap**  
-📧 [Email](mailto:bhavyapratap766@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com) | 🌐 [Portfolio](https://github.com/bhavyapratap17)  
+📧 [Email](mailto:bhavyapratap766@gmail.com) | 🔗 [LinkedIn](linkedin.com/in/bhavyapratap17) | 🌐 [Portfolio](https://github.com/bhavyapratap17)  
 
 ---
